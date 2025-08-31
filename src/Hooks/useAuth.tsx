@@ -2,7 +2,7 @@ import axios from "axios";
 import toast from "react-hot-toast";
 import { useNavigate } from "react-router-dom";
 
-const API = import.meta.env.VITE_API_URL;
+
 // console.log(API);
 
 
